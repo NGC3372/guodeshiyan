@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="back">#FFFAFA</color>
     <color name="tab">#FFFAF0</color>
+    <color name="red">#FF0000</color>
 </resources>

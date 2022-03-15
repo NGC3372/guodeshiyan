@@ -65,7 +65,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="20dp"
-            android:id="@+id/recycler_add"/>
+            android:id="@+id/recycler_add"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
 
     </LinearLayout>
 
