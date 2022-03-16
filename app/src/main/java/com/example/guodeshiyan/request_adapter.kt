@@ -43,7 +43,6 @@ class request_adapter():RecyclerView.Adapter<request_adapter.MViewHolder>() {
         return MViewHolder(view)
     }
 
-    //请求状态、响应接收状态、代理重加密状态、零知识证明身份验证状态、接收下载状态以及完成状态
 
     @SuppressLint("ResourceAsColor")
     override fun onBindViewHolder(holder: MViewHolder, position: Int) {
